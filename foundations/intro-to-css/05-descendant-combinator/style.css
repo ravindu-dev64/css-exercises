@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+div p {
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Below are some other possible descendant combinators:
+
+.container .text
+div .text
+.container p
+
+*/
