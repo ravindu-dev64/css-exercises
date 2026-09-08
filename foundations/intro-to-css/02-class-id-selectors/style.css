@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.stodd{
+    background-color:#ffa3a3;
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
+}
+#stsec{
+    font-size:36px;
+    color:#0000ff;
+}
+.st3n4{
+    font-size:24px;
+}
+#st4{
+    background-color: #90ee90;
+    font-weight:700;
+}
